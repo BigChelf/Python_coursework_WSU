@@ -1,0 +1,6 @@
+Red Wine Data Cleaning
+Text to column to separate the data by delimiter ;
+Removed duplicate rows, suspected that they were the same exact wine
+
+
+White Wine Data Cleaning
